@@ -34,7 +34,7 @@
 <div align="center">
 <p align="center">Let's Connect!</p>
 
-<a href="https://www.linkedin.com/in/tarcode2004/">
+<a href="https://www.linkedin.com/in/tarik-metin/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
